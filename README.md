@@ -1,2 +1,2 @@
 # KittyFrutty.github.io
-GitHub Pages
+School website about a healthy lifestyle
