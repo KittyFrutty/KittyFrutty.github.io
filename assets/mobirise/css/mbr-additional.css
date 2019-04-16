@@ -1,4 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans+KR:100,300,400,500,700,900);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i);
 
 
 
@@ -20,11 +22,11 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
-  font-size: 4.25rem;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 4.2rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.8rem;
+  font-size: 6.72rem;
 }
 .display-2 {
   font-family: 'Rubik', sans-serif;
@@ -48,11 +50,11 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.2rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -61,9 +63,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.4rem;
-    font-size: calc( 2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.36rem;
+    font-size: calc( 2.12rem + (4.2 - 2.12) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.12rem + (4.2 - 2.12) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.4rem;
@@ -658,14 +660,14 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.2rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 .form-control,
 .form-control:focus {
@@ -5610,6 +5612,106 @@ body {
 .cid-rnH3XCGiSf .nav-link:hover,
 .cid-rnH3XCGiSf .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-rnME0Tlk5F {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/sursa-foto-11-1024x607.jpg");
+}
+.cid-rnMEh5rXOe {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rnMEh5rXOe .mbr-text,
+.cid-rnMEh5rXOe blockquote {
+  color: #767676;
+}
+.cid-rnMEh5rXOe .mbr-text P {
+  text-align: left;
+}
+.cid-rnMGjPUoJG {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rnMGjPUoJG .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rnMGjPUoJG H2 {
+  text-align: center;
+}
+.cid-rnMGx7GcHw {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rnMGx7GcHw .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rnMGGM919a {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rnMGGM919a .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rnMGNqSnJy {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rnMGNqSnJy .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rnMH2uXh3G {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rnMH2uXh3G .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rnMHcGWQv7 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rnMHcGWQv7 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rnMHgu5TMw {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rnMHgu5TMw .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rnMHkHPaG0 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rnMHkHPaG0 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rnMHpWxXGU {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rnMHpWxXGU .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rnMHvFgzVy {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rnMHvFgzVy .mbr-section-subtitle {
+  color: #767676;
 }
 .cid-rnH3XCGiSf .navbar {
   padding: .5rem 0;
